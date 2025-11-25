@@ -3,5 +3,5 @@ For this reason I don't know why he decided to removed this beautiful project of
 I really like this remote spy compared to the other ones soo here
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lec1e/Sigma-Spy-Restored/refs/heads/main/Main.luau")()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lec1e/Sigma-Spy-Restored/refs/heads/main/Main.luau"))()
 ```
