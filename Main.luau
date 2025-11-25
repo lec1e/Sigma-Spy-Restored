@@ -3,8 +3,7 @@ local Configuration = {
 	UseWorkspace = false, 
 	NoActors = false,
 	FolderName = "Sigma Spy",
-	RepoUrl = [[https://raw.githubusercontent.com/newmorta/SigmaSpyRestored/refs/heads/main/Sigma-Spy]],
-	ParserUrl = [[http://c1.play2go.cloud:22023/raw/Roblox-parser/dist/Main.luau]],
+	RepoUrl = [[https://raw.githubusercontent.com/lec1e/Sigma-Spy-Restored/refs/heads/main/Sigma-Spy]],
     Directory = "Sigma Spy"
 }
 
